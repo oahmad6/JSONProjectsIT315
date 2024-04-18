@@ -1,8 +1,8 @@
 {
-  "HikingTrails":
+  "Routine":
   [
-  {"PlanName":"Bulking", "DescriptionTitle":"What is Bulking", "Description": "testing"}
-  {"PlanName":"Cutting", "DescriptionTitle":"What is Cutting", "Description": "testing"}
+  {"PlanName":"Bulking", "DescriptionTitle":"What is Bulking", "Description": "testing"},
+  {"PlanName":"Cutting", "DescriptionTitle":"What is Cutting", "Description": "testing"},
   {"PlanName":"Maintaining", "DescriptionTitle":"What is Maintaining", "Description": "testing"}
   ],
   "Status":"OK"

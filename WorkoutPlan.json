@@ -1,5 +1,5 @@
 {
-  "WorkoutPlan":
+  "Routine":
   [
   {"PlanName":"Bulking", "DescriptionTitle":"What is Bulking", "Description": "testing"},
   {"PlanName":"Cutting", "DescriptionTitle":"What is Cutting", "Description": "testing"},

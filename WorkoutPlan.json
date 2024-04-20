@@ -1,9 +1,9 @@
 {
   "Routine":
   [
-  {"PlanName":"Bulking", "DescriptionTitle":"What is Bulking", "Description": "testing"},
-  {"PlanName":"Cutting", "DescriptionTitle":"What is Cutting", "Description": "testing"},
-  {"PlanName":"Maintaining", "DescriptionTitle":"What is Maintaining", "Description": "testing"}
+  {"PlanName":"Bulking", "DescriptionTitle":"What is Bulking", "Description": "Bulking is when you want to build muscle, make your body to its peak strength. This plan is for people who want to get bigger and stronger. By performing less reps but high weight."},
+  {"PlanName":"Cutting", "DescriptionTitle":"What is Cutting", "Description": "Cutting is when you want to shed the fat and get as lean as you are possible. This is for people who want to get their summer body and get into the single digits body fat%, by high reps and less weight."},
+  {"PlanName":"Maintaining", "DescriptionTitle":"What is Maintaining", "Description": "Maintaining is between the two as you want to keep your body exactly where it is. By doing medium to high reps and weight, this is for people who got their goal bodies and want to maintain it."}
   ],
   "Status":"OK"
 }
